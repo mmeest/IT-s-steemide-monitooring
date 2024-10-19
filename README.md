@@ -8,3 +8,8 @@ Kursuse link: https://hkhk.edu.ee/IT-susteemide-monitooring-jalgitavus
 
 * APM - rakenduse jõudluse monitooring. Application performance monitoring
 
+**Prometheus ja Grafana**
+
+**Zabbix**
+
+**Splunk ja ELK Stack**
