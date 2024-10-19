@@ -17,3 +17,8 @@ https://github.com/Haapsalu-Kutsehariduskeskus/monitoring/tree/maria-loengud/mon
 
 **Splunk ja ELK Stack**
 
+Digital Ocean konto loomine krediitkaartiga
+https://www.digitalocean.com/?refcode=23d277be9014&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste
+
+Remote Explorer -> + -> Ubuntu 24
+
